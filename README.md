@@ -1,8 +1,6 @@
 # Pipeline
 
-
-
-pipeline {         
+pipeline {
     agent any
 
     tools {
