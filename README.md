@@ -1,10 +1,7 @@
-# Pipeline
-
-#codigo 
+#Codigo Pipeline
 
 pipeline {
-    agent any
-    
+    agent any 
     tools {
         maven "apache-maven"
     }
